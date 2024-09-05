@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# edvanta_event_scheduler
+
+### demo link (backend isnt deployed since nodjs deployment costs moneyy)  https://bejewelled-pika-5d7740.netlify.app/
+
+## backend link - https://github.com/bhaveshkys/edvanta_event_scheduler_backend
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
